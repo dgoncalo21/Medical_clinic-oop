@@ -1,4 +1,4 @@
-# Medical-clinic---oop
+# Medical_clinic-oop
 Simulation of a medical clinic using object-oriented programing in Java
 
 
